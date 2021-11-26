@@ -66,4 +66,16 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+    @Test
+    public void shouldAnswerWithTrue9()
+    {
+        assertTrue( true );
+    }
+    
+    @Test
+    public void shouldAnswerWithTrue10()
+    {
+        assertTrue( true );
+    }
 }

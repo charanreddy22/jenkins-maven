@@ -48,4 +48,22 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+    @Test
+    public void shouldAnswerWithTrue6()
+    {
+        assertTrue( true );
+    }
+    
+    @Test
+    public void shouldAnswerWithTrue7()
+    {
+        assertTrue( true );
+    }
+    
+    @Test
+    public void shouldAnswerWithTrue8()
+    {
+        assertTrue( true );
+    }
 }
